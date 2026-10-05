@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" ReportInfo.Created="09/25/2026 05:41:32" ReportInfo.Modified="09/25/2026 12:20:47" ReportInfo.CreatorVersion="2026.2.0.0">
+  <Dictionary>
+    <BusinessObjectDataSource Name="Pesaje" ReferenceName="Pesaje" DataType="System.Int32" Enabled="true">
+      <Column Name="Id" DataType="System.Int32"/>
+      <Column Name="ProductoCodigo" DataType="System.String"/>
+      <Column Name="ProductoDescripcion" DataType="System.String"/>
+      <Column Name="Peso" DataType="System.Decimal"/>
+      <Column Name="PesoTara" DataType="System.Decimal"/>
+      <Column Name="PesoNeto" DataType="System.Decimal"/>
+      <Column Name="Precio" DataType="System.Decimal"/>
+      <Column Name="Importe" DataType="System.Decimal"/>
+      <Column Name="Lote" DataType="System.String"/>
+      <Column Name="Turno" DataType="System.String"/>
+      <Column Name="Usuario" DataType="System.String"/>
+      <Column Name="FechaLocal" DataType="System.Int32"/>
+      <Column Name="MostrarPrecio" DataType="System.Boolean" BindableControl="CheckBox"/>
+      <Column Name="MostrarLote" DataType="System.Boolean" BindableControl="CheckBox"/>
+      <Column Name="MostrarCodigoBarras" DataType="System.Boolean" BindableControl="CheckBox"/>
+      <Column Name="MostrarFechaVencimiento" DataType="System.Boolean" BindableControl="CheckBox"/>
+      <Column Name="MostrarFechaPeriodo" DataType="System.Boolean" BindableControl="CheckBox"/>
+      <Column Name="MostrarPesoNeto" DataType="System.Boolean" BindableControl="CheckBox"/>
+      <Column Name="MostrarPesoTara" DataType="System.Boolean" BindableControl="CheckBox"/>
+    </BusinessObjectDataSource>
+  </Dictionary>
+  <ReportPage Name="Page1" PaperWidth="100" PaperHeight="50" LeftMargin="0" TopMargin="0" RightMargin="0" BottomMargin="0" Watermark.Font="Arial, 60pt">
+    <DataBand Name="Data1" Width="378" Height="85.05" DataSource="Pesaje">
+      <TextObject Name="Text1" Left="170.1" Top="37.8" Width="18.9" Height="9.45" Text="OP" Font="Arial, 5pt"/>
+      <TextObject Name="Text2" Left="217.35" Top="37.8" Width="47.25" Height="9.45" Text="[Pesaje.Lote]" Font="Arial, 5pt"/>
+      <TextObject Name="Text3" Left="170.1" Top="56.7" Width="37.8" Height="9.45" Text="CODIGO" Font="Arial, 5pt"/>
+      <TextObject Name="Text4" Left="217.35" Top="56.7" Width="85.05" Height="9.45" Text="[Pesaje.ProductoCodigo]" Font="Arial, 5pt"/>
+      <TextObject Name="Text5" Left="9.45" Top="37.8" Width="47.25" Height="9.45" Text="CANTIDAD" Font="Arial, 5pt"/>
+      <TextObject Name="Text6" Left="66.15" Top="37.8" Width="18.9" Height="9.45" Text="10" Font="Arial, 5pt"/>
+      <TextObject Name="Text7" Left="9.45" Top="56.7" Width="28.35" Height="9.45" Text="PESO" Font="Arial, 5pt"/>
+      <TextObject Name="Text8" Left="66.15" Top="56.7" Width="56.7" Height="9.45" Text="[Pesaje.Peso]" Format="Currency" Format.UseLocale="true" Format.DecimalDigits="2" WordWrap="false" Font="Arial, 5pt" Trimming="EllipsisCharacter"/>
+      <TextObject Name="Text9" Left="9.45" Top="9.45" Width="349.65" Height="18.9" Text="[Pesaje.ProductoDescripcion]" Font="Arial, 10pt"/>
+      <TextObject Name="Text10" Left="66.15" Top="75.6" Width="75.6" Height="9.45" Text="[Pesaje.FechaLocal]" Font="Arial, 5pt"/>
+      <TextObject Name="Text11" Left="9.45" Top="75.6" Width="37.8" Height="9.45" Text="FECHA" Font="Arial, 5pt"/>
+      <TextObject Name="Text12" Left="217.35" Top="75.6" Width="56.7" Height="9.45" Text="[Pesaje.Turno]" Font="Arial, 5pt"/>
+      <TextObject Name="Text13" Left="170.1" Top="75.6" Width="37.8" Height="9.45" Text="TURNO" Font="Arial, 5pt"/>
+    </DataBand>
+  </ReportPage>
+</Report>

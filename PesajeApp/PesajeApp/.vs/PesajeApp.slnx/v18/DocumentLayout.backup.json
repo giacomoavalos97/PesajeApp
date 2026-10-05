@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franc\\source\\repos\\PesajeApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F98435C4-E0BD-02DB-03AD-D24E0679807A}|PesajeApp\\PesajeApp.csproj|c:\\users\\franc\\source\\repos\\pesajeapp\\pesajeapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F98435C4-E0BD-02DB-03AD-D24E0679807A}|PesajeApp\\PesajeApp.csproj|solutionrelative:pesajeapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98435C4-E0BD-02DB-03AD-D24E0679807A}|PesajeApp\\PesajeApp.csproj|c:\\users\\franc\\source\\repos\\pesajeapp\\pesajeapp\\views\\pesajeform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F98435C4-E0BD-02DB-03AD-D24E0679807A}|PesajeApp\\PesajeApp.csproj|solutionrelative:pesajeapp\\views\\pesajeform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98435C4-E0BD-02DB-03AD-D24E0679807A}|PesajeApp\\PesajeApp.csproj|c:\\users\\franc\\source\\repos\\pesajeapp\\pesajeapp\\views\\productoform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F98435C4-E0BD-02DB-03AD-D24E0679807A}|PesajeApp\\PesajeApp.csproj|solutionrelative:pesajeapp\\views\\productoform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98435C4-E0BD-02DB-03AD-D24E0679807A}|PesajeApp\\PesajeApp.csproj|c:\\users\\franc\\source\\repos\\pesajeapp\\pesajeapp\\views\\licenciaview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98435C4-E0BD-02DB-03AD-D24E0679807A}|PesajeApp\\PesajeApp.csproj|solutionrelative:pesajeapp\\views\\licenciaview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98435C4-E0BD-02DB-03AD-D24E0679807A}|PesajeApp\\PesajeApp.csproj|c:\\users\\franc\\source\\repos\\pesajeapp\\pesajeapp\\views\\licenciaview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F98435C4-E0BD-02DB-03AD-D24E0679807A}|PesajeApp\\PesajeApp.csproj|solutionrelative:pesajeapp\\views\\licenciaview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98435C4-E0BD-02DB-03AD-D24E0679807A}|PesajeApp\\PesajeApp.csproj|c:\\users\\franc\\source\\repos\\pesajeapp\\pesajeapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98435C4-E0BD-02DB-03AD-D24E0679807A}|PesajeApp\\PesajeApp.csproj|solutionrelative:pesajeapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98435C4-E0BD-02DB-03AD-D24E0679807A}|PesajeApp\\PesajeApp.csproj|c:\\users\\franc\\source\\repos\\pesajeapp\\pesajeapp\\licensing\\licenciaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98435C4-E0BD-02DB-03AD-D24E0679807A}|PesajeApp\\PesajeApp.csproj|solutionrelative:pesajeapp\\licensing\\licenciaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98435C4-E0BD-02DB-03AD-D24E0679807A}|PesajeApp\\PesajeApp.csproj|c:\\users\\franc\\source\\repos\\pesajeapp\\pesajeapp\\licensing\\installationidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98435C4-E0BD-02DB-03AD-D24E0679807A}|PesajeApp\\PesajeApp.csproj|solutionrelative:pesajeapp\\licensing\\installationidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98435C4-E0BD-02DB-03AD-D24E0679807A}|PesajeApp\\PesajeApp.csproj|c:\\users\\franc\\source\\repos\\pesajeapp\\pesajeapp\\licensing\\licenciastoragetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98435C4-E0BD-02DB-03AD-D24E0679807A}|PesajeApp\\PesajeApp.csproj|solutionrelative:pesajeapp\\licensing\\licenciastoragetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98435C4-E0BD-02DB-03AD-D24E0679807A}|PesajeApp\\PesajeApp.csproj|c:\\users\\franc\\source\\repos\\pesajeapp\\pesajeapp\\licensing\\licenciastorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98435C4-E0BD-02DB-03AD-D24E0679807A}|PesajeApp\\PesajeApp.csproj|solutionrelative:pesajeapp\\licensing\\licenciastorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98435C4-E0BD-02DB-03AD-D24E0679807A}|PesajeApp\\PesajeApp.csproj|c:\\users\\franc\\source\\repos\\pesajeapp\\pesajeapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F98435C4-E0BD-02DB-03AD-D24E0679807A}|PesajeApp\\PesajeApp.csproj|solutionrelative:pesajeapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98435C4-E0BD-02DB-03AD-D24E0679807A}|PesajeApp\\PesajeApp.csproj|c:\\users\\franc\\source\\repos\\pesajeapp\\pesajeapp\\licensing\\licenciavalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98435C4-E0BD-02DB-03AD-D24E0679807A}|PesajeApp\\PesajeApp.csproj|solutionrelative:pesajeapp\\licensing\\licenciavalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98435C4-E0BD-02DB-03AD-D24E0679807A}|PesajeApp\\PesajeApp.csproj|c:\\users\\franc\\source\\repos\\pesajeapp\\pesajeapp\\pesajeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F98435C4-E0BD-02DB-03AD-D24E0679807A}|PesajeApp\\PesajeApp.csproj|solutionrelative:pesajeapp\\pesajeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98435C4-E0BD-02DB-03AD-D24E0679807A}|PesajeApp\\PesajeApp.csproj|c:\\users\\franc\\source\\repos\\pesajeapp\\pesajeapp\\licensing\\licenciavalidationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98435C4-E0BD-02DB-03AD-D24E0679807A}|PesajeApp\\PesajeApp.csproj|solutionrelative:pesajeapp\\licensing\\licenciavalidationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98435C4-E0BD-02DB-03AD-D24E0679807A}|PesajeApp\\PesajeApp.csproj|c:\\users\\franc\\source\\repos\\pesajeapp\\pesajeapp\\licensing\\licenciapayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98435C4-E0BD-02DB-03AD-D24E0679807A}|PesajeApp\\PesajeApp.csproj|solutionrelative:pesajeapp\\licensing\\licenciapayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98435C4-E0BD-02DB-03AD-D24E0679807A}|PesajeApp\\PesajeApp.csproj|c:\\users\\franc\\source\\repos\\pesajeapp\\pesajeapp\\licensing\\licenciavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98435C4-E0BD-02DB-03AD-D24E0679807A}|PesajeApp\\PesajeApp.csproj|solutionrelative:pesajeapp\\licensing\\licenciavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98435C4-E0BD-02DB-03AD-D24E0679807A}|PesajeApp\\PesajeApp.csproj|c:\\users\\franc\\source\\repos\\pesajeapp\\pesajeapp\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F98435C4-E0BD-02DB-03AD-D24E0679807A}|PesajeApp\\PesajeApp.csproj|solutionrelative:pesajeapp\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98435C4-E0BD-02DB-03AD-D24E0679807A}|PesajeApp\\PesajeApp.csproj|c:\\users\\franc\\source\\repos\\pesajeapp\\pesajeapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98435C4-E0BD-02DB-03AD-D24E0679807A}|PesajeApp\\PesajeApp.csproj|solutionrelative:pesajeapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PesajeForm.xaml",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\PesajeApp\\PesajeApp\\Views\\PesajeForm.xaml",
+              "RelativeDocumentMoniker": "PesajeApp\\Views\\PesajeForm.xaml",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\PesajeApp\\PesajeApp\\Views\\PesajeForm.xaml",
+              "RelativeToolTip": "PesajeApp\\Views\\PesajeForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-05T15:54:53.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoForm.xaml",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\PesajeApp\\PesajeApp\\Views\\ProductoForm.xaml",
+              "RelativeDocumentMoniker": "PesajeApp\\Views\\ProductoForm.xaml",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\PesajeApp\\PesajeApp\\Views\\ProductoForm.xaml",
+              "RelativeToolTip": "PesajeApp\\Views\\ProductoForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-05T15:54:37.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LicenciaService.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\PesajeApp\\PesajeApp\\Licensing\\LicenciaService.cs",
+              "RelativeDocumentMoniker": "PesajeApp\\Licensing\\LicenciaService.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\PesajeApp\\PesajeApp\\Licensing\\LicenciaService.cs",
+              "RelativeToolTip": "PesajeApp\\Licensing\\LicenciaService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T06:14:16.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LicenciaView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\PesajeApp\\PesajeApp\\Views\\LicenciaView.xaml.cs",
+              "RelativeDocumentMoniker": "PesajeApp\\Views\\LicenciaView.xaml.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\PesajeApp\\PesajeApp\\Views\\LicenciaView.xaml.cs",
+              "RelativeToolTip": "PesajeApp\\Views\\LicenciaView.xaml.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAcwHcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T06:01:48.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LicenciaView.xaml",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\PesajeApp\\PesajeApp\\Views\\LicenciaView.xaml",
+              "RelativeDocumentMoniker": "PesajeApp\\Views\\LicenciaView.xaml",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\PesajeApp\\PesajeApp\\Views\\LicenciaView.xaml",
+              "RelativeToolTip": "PesajeApp\\Views\\LicenciaView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-05T06:01:26.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InstallationIdService.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\PesajeApp\\PesajeApp\\Licensing\\InstallationIdService.cs",
+              "RelativeDocumentMoniker": "PesajeApp\\Licensing\\InstallationIdService.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\PesajeApp\\PesajeApp\\Licensing\\InstallationIdService.cs",
+              "RelativeToolTip": "PesajeApp\\Licensing\\InstallationIdService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T05:52:28.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LicenciaStorageTest.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\PesajeApp\\PesajeApp\\Licensing\\LicenciaStorageTest.cs",
+              "RelativeDocumentMoniker": "PesajeApp\\Licensing\\LicenciaStorageTest.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\PesajeApp\\PesajeApp\\Licensing\\LicenciaStorageTest.cs",
+              "RelativeToolTip": "PesajeApp\\Licensing\\LicenciaStorageTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T05:42:04.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LicenciaStorage.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\PesajeApp\\PesajeApp\\Licensing\\LicenciaStorage.cs",
+              "RelativeDocumentMoniker": "PesajeApp\\Licensing\\LicenciaStorage.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\PesajeApp\\PesajeApp\\Licensing\\LicenciaStorage.cs",
+              "RelativeToolTip": "PesajeApp\\Licensing\\LicenciaStorage.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAwFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T05:28:55.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\PesajeApp\\PesajeApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "PesajeApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\PesajeApp\\PesajeApp\\App.xaml.cs",
+              "RelativeToolTip": "PesajeApp\\App.xaml.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAiwEcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T02:03:32.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\PesajeApp\\PesajeApp\\App.xaml",
+              "RelativeDocumentMoniker": "PesajeApp\\App.xaml",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\PesajeApp\\PesajeApp\\App.xaml",
+              "RelativeToolTip": "PesajeApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-05T02:03:24.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LicenciaValidatorTest.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\PesajeApp\\PesajeApp\\Licensing\\LicenciaValidatorTest.cs",
+              "RelativeDocumentMoniker": "PesajeApp\\Licensing\\LicenciaValidatorTest.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\PesajeApp\\PesajeApp\\Licensing\\LicenciaValidatorTest.cs",
+              "RelativeToolTip": "PesajeApp\\Licensing\\LicenciaValidatorTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T02:02:54.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LicenciaValidationResult.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\PesajeApp\\PesajeApp\\Licensing\\LicenciaValidationResult.cs",
+              "RelativeDocumentMoniker": "PesajeApp\\Licensing\\LicenciaValidationResult.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\PesajeApp\\PesajeApp\\Licensing\\LicenciaValidationResult.cs",
+              "RelativeToolTip": "PesajeApp\\Licensing\\LicenciaValidationResult.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T01:48:21.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LicenciaValidator.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\PesajeApp\\PesajeApp\\Licensing\\LicenciaValidator.cs",
+              "RelativeDocumentMoniker": "PesajeApp\\Licensing\\LicenciaValidator.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\PesajeApp\\PesajeApp\\Licensing\\LicenciaValidator.cs",
+              "RelativeToolTip": "PesajeApp\\Licensing\\LicenciaValidator.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAuwHIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T01:47:39.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LicenciaPayload.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\PesajeApp\\PesajeApp\\Licensing\\LicenciaPayload.cs",
+              "RelativeDocumentMoniker": "PesajeApp\\Licensing\\LicenciaPayload.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\PesajeApp\\PesajeApp\\Licensing\\LicenciaPayload.cs",
+              "RelativeToolTip": "PesajeApp\\Licensing\\LicenciaPayload.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA4wB0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T01:44:12.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PesajeApp.csproj",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\PesajeApp\\PesajeApp\\PesajeApp.csproj",
+              "RelativeDocumentMoniker": "PesajeApp\\PesajeApp.csproj",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\PesajeApp\\PesajeApp\\PesajeApp.csproj",
+              "RelativeToolTip": "PesajeApp\\PesajeApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-02T23:48:59.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\PesajeApp\\PesajeApp\\Views\\LoginView.xaml",
+              "RelativeDocumentMoniker": "PesajeApp\\Views\\LoginView.xaml",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\PesajeApp\\PesajeApp\\Views\\LoginView.xaml",
+              "RelativeToolTip": "PesajeApp\\Views\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-02T23:46:24.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\PesajeApp\\PesajeApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PesajeApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\PesajeApp\\PesajeApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PesajeApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T23:45:26.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\PesajeApp\\PesajeApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PesajeApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\PesajeApp\\PesajeApp\\MainWindow.xaml",
+              "RelativeToolTip": "PesajeApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-02T23:45:20.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

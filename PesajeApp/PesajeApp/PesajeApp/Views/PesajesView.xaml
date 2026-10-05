@@ -1,0 +1,99 @@
+﻿<Window x:Class="PesajeApp.Views.PesajesView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Pesajes"
+        Height="700"
+        Width="1200"
+        Icon="../Assets/logo.ico"
+        WindowStartupLocation="CenterScreen">
+
+    <Grid Margin="15">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Título -->
+        <TextBlock Text="Pesajes"
+                   FontSize="24"
+                   FontWeight="Bold"
+                   Margin="0,0,0,15"/>
+
+        <!-- Tabla -->
+        <DataGrid x:Name="PesajesDataGrid"
+                  Grid.Row="1"
+                  AutoGenerateColumns="False"
+                  IsReadOnly="True"
+                  CanUserAddRows="False"
+                  CanUserDeleteRows="False"
+                  SelectionMode="Single"
+                  SelectionUnit="FullRow"
+                  HeadersVisibility="Column"
+                  RowHeaderWidth="0">
+
+            <DataGrid.Columns>
+
+                <DataGridTextColumn Header="ID"
+                                    Binding="{Binding Id}"
+                                    Width="70"/>
+
+                <DataGridTextColumn Header="Fecha"
+                                    Binding="{Binding FechaLocal, StringFormat={}{0:dd/MM/yyyy HH:mm:ss}}"
+                                    Width="150"/>
+
+                <DataGridTextColumn Header="Código"
+                                    Binding="{Binding ProductoCodigo}"
+                                    Width="100"/>
+
+                <DataGridTextColumn Header="Producto"
+                                    Binding="{Binding ProductoDescripcion}"
+                                    Width="220"/>
+
+                <DataGridTextColumn Header="Cantidad"
+                                    Binding="{Binding Cantidad}"
+                                    Width="90"/>
+
+                <DataGridTextColumn Header="Lote"
+                                    Binding="{Binding Lote}"
+                                    Width="120"/>
+
+                <DataGridTextColumn Header="Peso"
+                                    Binding="{Binding Peso, StringFormat={}{0:N3}}"
+                                    Width="100"/>
+
+                <DataGridTextColumn Header="Tara"
+                                    Binding="{Binding PesoTara, StringFormat={}{0:N3}}"
+                                    Width="100"/>
+
+                <DataGridTextColumn Header="Peso neto"
+                                    Binding="{Binding PesoNeto, StringFormat={}{0:N3}}"
+                                    Width="100"/>
+
+                <DataGridTextColumn Header="Precio"
+                                    Binding="{Binding Precio, StringFormat={}{0:N3}}"
+                                    Width="100"/>
+
+                <DataGridTextColumn Header="Importe"
+                                    Binding="{Binding Importe, StringFormat={}{0:N3}}"
+                                    Width="100"/>
+
+                <DataGridTextColumn Header="Usuario"
+                                    Binding="{Binding UsuarioNombre}"
+                                    Width="150"/>
+
+                <DataGridTextColumn Header="Turno"
+                                    Binding="{Binding Turno}"
+                                    Width="90"/>
+
+                <DataGridTextColumn Header="Sede"
+                                    Binding="{Binding SedeNombre}"
+                                    Width="150"/>
+
+            </DataGrid.Columns>
+
+        </DataGrid>
+
+    </Grid>
+
+</Window>
